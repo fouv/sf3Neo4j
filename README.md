@@ -1,4 +1,2 @@
-neo
-===
-
-A Symfony project created on June 30, 2017, 3:12 pm.
+# sf3Neo4j
+POC neo4j integration to symfony 3.x
